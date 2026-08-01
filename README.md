@@ -14,8 +14,8 @@ The objective of this project is to analyze customer churn in a telecom business
 
 ## 🛠️ 3. Tools Used
 
-- SQL
-- Power BI
+🗄️ MySQL
+📊 Power BI
 
 ---
 
@@ -61,4 +61,5 @@ The objective of this project is to analyze customer churn in a telecom business
 ---
 
 ## 📂 7. Dashboard Preview
-<img width="1455" height="784" alt="Dashboard " src="https://github.com/user-attachments/assets/0061c63e-92ba-43ad-a67b-4404754e712c" />
+<img width="1269" height="724" alt="Dashboard" src="https://github.com/user-attachments/assets/f938a65b-9d6d-4651-a2e7-a159d38afffa" />
+
